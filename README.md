@@ -32,4 +32,8 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hssong93&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
+
     
+<br>
